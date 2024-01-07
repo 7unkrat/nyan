@@ -1263,3 +1263,8 @@ h6 {
 .footer .credits a {
   color: var(--color-primary);
 }
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
